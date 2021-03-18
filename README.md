@@ -8,7 +8,7 @@
 
 ### E tô ouvindo isso agora: 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="daviccarneiro spotify" width="350" />](https://open.spotify.com/user/idbd6al9s81ic4w1yk4lngusq?si=3zaRqsiKQwaGJAP70HbfPw)
+[![Spotify](https://novatorem-dusky-gamma.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 ### Tô nesses sites:
 
