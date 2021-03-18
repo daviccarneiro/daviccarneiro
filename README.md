@@ -1,16 +1,22 @@
-### Hi there 👋
+### Oi, me chamo Davi, e aqui compartilho tudo que faço na graduação em TI e outros projetos! 😃
 
-<!--
-**daviccarneiro/daviccarneiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🦷 Cirurgião-Dentista pela UFPB
+- 🥼 Mestre em Ciências Odontológicas
+- 💻 Graduando em Ciências da Computação pela UNIPÊ
+- ✒️ Pesquisador em tecnologia aplicada a saúde
+- ⚡ Patinador, guitarrista e lifelong learner
 
-Here are some ideas to get you started:
+### E tô ouvindo isso agora: 🎧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="daviccarneiro spotify" width="350" />](https://open.spotify.com/user/idbd6al9s81ic4w1yk4lngusq?si=3zaRqsiKQwaGJAP70HbfPw)
+
+### Tô nesses sites:
+
+[<img align="left" alt="daviccarneiro | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="daviccarneiro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="daviccarneiro | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+[twitter]: https://twitter.com/daviccarneiro
+[instagram]: https://instagram.com/daviccarneiro
+[linkedin]: https://linkedin.com/in/daviccarneiro
