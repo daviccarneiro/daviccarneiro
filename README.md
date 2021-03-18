@@ -1,4 +1,6 @@
-### Oi, me chamo Davi, e aqui compartilho tudo que faço na graduação em TI e outros projetos! 😃
+<h1 align="center">E aí!👋 tudo tranquilo? </h1>
+
+<h3 align="center">Davi C. Carneiro, DDS, MSc. 🧔🏻‍</h3>
 
 - 🦷 Cirurgião-Dentista pela UFPB
 - 🥼 Mestre em Ciências Odontológicas
@@ -10,7 +12,7 @@
 
 [![Spotify](https://novatorem-dusky-gamma.vercel.app/api/spotify)](https://open.spotify.com/user/daviccarneiro)
 
-### Ah, também tô nesses sites:
+### Ah, também tô nesses sites: 💬
 
 [<img align="left" alt="daviccarneiro | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="daviccarneiro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
