@@ -8,7 +8,7 @@
 
 ### E tô ouvindo isso agora: 🎧
 
-[![Spotify](https://novatorem-dusky-gamma.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://novatorem-dusky-gamma.vercel.app/api/spotify)](https://open.spotify.com/user/daviccarneiro)
 
 ### Tô nesses sites:
 
