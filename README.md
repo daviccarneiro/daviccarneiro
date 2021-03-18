@@ -6,11 +6,11 @@
 - ✒️ Pesquisador em tecnologia aplicada a saúde
 - ⚡ Patinador, guitarrista e lifelong learner
 
-### E tô ouvindo isso agora: 🎧
+### e tô ouvindo isso agora: 🎧
 
 [![Spotify](https://novatorem-dusky-gamma.vercel.app/api/spotify)](https://open.spotify.com/user/daviccarneiro)
 
-### Tô nesses sites:
+### ah, também tô nesses sites:
 
 [<img align="left" alt="daviccarneiro | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="daviccarneiro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
