@@ -12,7 +12,7 @@
 
 [![Spotify](https://novatorem-dusky-gamma.vercel.app/api/spotify)](https://open.spotify.com/user/daviccarneiro)
 
-### Ah, também tô nesses sites: 💬
+### Ah, também tô nesses sites: ⬇️
 
 [<img align="left" alt="daviccarneiro | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="daviccarneiro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
