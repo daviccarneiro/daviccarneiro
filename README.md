@@ -6,7 +6,7 @@
 - 🥼 Mestre em Ciências Odontológicas
 - 💻 Graduando em Ciências da Computação pela UNIPÊ
 - ✒️ Pesquisador em tecnologia aplicada a saúde
-- ⚡ Patinador, guitarrista e lifelong learner
+- ⚡ Patinador, criador de conteúdo e lifelong learner
 
 ### E tô ouvindo isso agora: 🎧
 
