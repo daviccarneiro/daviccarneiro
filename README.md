@@ -2,8 +2,8 @@
 
 [<img align="left" alt="daviccarneiro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="daviccarneiro | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="daviccarneiro | Flowpage" width="22px" src="https://flowimage.flow.page/resize?img=https%3A%2F%2Fcdn.flow.page%2Fimages%2F78be47f1-29ef-49af-a0ef-7f8527fe753a-profile-picture%3Fm%3D1616435509&w=320" />][Flowpage]
+[<img align="left" alt="daviccarneiro | Beacons" width="22px" src="https://bookface-images.s3.amazonaws.com/small_logos/2e15ea27dc080dc0feb5349b7dde5f0d8d7c939c.png" />][beacons]
 
 [instagram]: https://instagram.com/daviccarneiro
 [linkedin]: https://linkedin.com/in/daviccarneiro
-[Flowpage]: https://www.flowcode.com/page/daviccarneiro
+[beacons]: https://www.beacons.ai/daviccarneiro
