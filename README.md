@@ -6,4 +6,4 @@
 
 [instagram]: https://instagram.com/daviccarneiro
 [linkedin]: https://linkedin.com/in/daviccarneiro
-[beacons]: https://www.beacons.ai/daviccarneiro
+[beacons]: https://bento.me/carneiro
