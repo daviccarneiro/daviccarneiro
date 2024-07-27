@@ -1,6 +1,6 @@
 <h3 align="center">Davi C. Carneiro, DDS, MSc. 🧔🏻‍</h3>
 
-</br></br>
+</br>
 
 🇧🇷 PT-BR: </br>
 Davi Carneiro é mestre em Odontologia pela UFPB e doutorando em Ciências Odontológicas pela mesma instituição, além de cursar Ciência da Computação pela UNIPÊ. Foi premiado como Bolsista Destaque pela CAPES pela sua dissertação sobre Detecção de Cárie com Inteligência Artificial, que gerou também patente de software junto ao INPI. Atualmente, Davi trabalha como Gerente de Contas para uma empresa de Chicago. Também realiza consultoria e desenvolvimento freelance de aplicativos e ferramentas para saúde e produtividade em geral.
