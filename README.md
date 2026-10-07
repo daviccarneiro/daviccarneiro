@@ -5,10 +5,6 @@
   <em>Saúde, dados e produto.</em>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Jo%C3%A3o_Pessoa-PB,_Brasil-009C3B?style=flat-square&logo=googlemaps&logoColor=white" alt="Localização">
-</p>
-
 ---
 
 ## 🇧🇷 Sobre
