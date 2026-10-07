@@ -33,7 +33,7 @@ Davi Carneiro is a Product Owner at LABIAL, leading discovery, roadmapping and S
 | **Epi-Digi** | Software B2B que apoia iniciativa da Colgate-Palmolive em 30+ municípios e 200 mil pessoas. Liderança de equipe de 5 pessoas. |
 | **FluorCheck** | Produto SaaS com IA que detecta padrões de escovação e entrega orientações personalizadas. Liderança de equipe de 6 pessoas. |
 | **introducing.news** | Newsletter em português com curadoria de novidades de tecnologia. Astro, Keystatic, Cloudflare Workers e Resend. |
-| **um-minuto** | PWA de prática de oratória: tema, 1 minuto para anotar e 1 minuto para falar. Next.js, Supabase e Vercel. |
+| **um-minuto-app** | App mobile do jogo "Um Minuto": um tema, 1 minuto para pensar e 1 minuto para falar. React Native, Expo e Supabase. |
 
 ---
 
