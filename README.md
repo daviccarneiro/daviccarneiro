@@ -59,6 +59,24 @@ Davi Carneiro is the Founder of inovaHealth, a healthtech company building AI-fo
 
 ---
 
+## 📚 Publicações
+
+[ORCID](https://orcid.org/0000-0002-3529-2504) · [Google Acadêmico](https://scholar.google.com/citations?user=IZfYczMAAAAJ)
+
+| Ano | Publicação | Periódico |
+|:---|:---|:---|
+| 2026 | [Evaluation of the effect of a silica-enriched toothpaste on teeth with MIH: A triple-blind pilot randomized controlled clinical trial](https://doi.org/10.1016/j.jdent.2026.107042) | Journal of Dentistry |
+| 2026 | [Relação entre alimentação e cárie dentária: impactos nutricionais na saúde bucal em crianças e adolescentes](https://doi.org/10.54899/dcs.v23i87.4713) | Revista DCS |
+| 2026 | [Os desafios da formação em saúde diante das transformações tecnológicas e das demandas sociais contemporâneas](https://doi.org/10.55905/rdelosv19.n76-178) | Revista DELOS |
+| 2025 | [Saúde bucal infantil: prevalência e fatores associados à cárie em crianças e adolescentes](https://doi.org/10.54899/dcs.v22i85.3998) | Revista DCS |
+| 2025 | [Gestão e inovação no setor de saúde: o papel da inteligência artificial (IA) na melhoria dos serviços](https://doi.org/10.54899/dcs.v22i84.3732) | Revista DCS |
+| 2022 | [Presence of management, entrepreneurship, leadership and marketing topics in the dental school curriculum in Brazil](https://doi.org/10.1111/eje.12714) | European Journal of Dental Education |
+| 2022 | [Impact of the curricular component management and professional guidance on the level of knowledge about administration of dentistry students at UFPB](https://doi.org/10.30979/revabeno.v22i2.1629) | Revista da ABENO |
+| 2021 | [Detecção de cárie dentária por fotoluminescência utilizando processamento digital de imagem com inteligência artificial](https://bdtd.ibict.br/vufind/Record/UFPB_5fdc6f9da2d26be4be37c9f77bc71653) | Dissertação de Mestrado (UFPB) |
+| 2018 | [Resistência de união ao teste de push-out em pinos de fibra de vidro com diferentes tratamentos radiculares](http://archhealthinvestigation.emnuvens.com.br/ArcHI/article/view/3622) | Archives of Health Investigation |
+
+---
+
 ## 📜 Certificações
 
 - ClickUp Expert
