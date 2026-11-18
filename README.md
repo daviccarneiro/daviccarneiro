@@ -38,7 +38,7 @@ Davi Carneiro is the Founder of inovaHealth, a healthtech company building AI-fo
 
 | Período | Cargo | Organização |
 |:---|:---|:---|
-| 2021 - atual | Founder | inovaHealth |
+| 2024 - atual | Founder | inovaHealth |
 | 2025 - atual | Professor Universitário | UNIPÊ |
 | 2024 - 2026 | Account Manager & Project Director | Curio Digital |
 | 2023 - 2024 | Project Manager | Curio Digital |
