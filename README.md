@@ -61,7 +61,7 @@ Davi Carneiro is the Founder of inovaHealth, a healthtech company building AI-fo
 
 ## 📚 Publicações
 
-[Currículo Lattes](http://lattes.cnpq.br/2222088746861424)
+[Currículo Lattes](https://lattes.cnpq.br/2222088746861424)
 
 | Ano | Publicação | Periódico |
 |:---|:---|:---|
@@ -73,7 +73,7 @@ Davi Carneiro is the Founder of inovaHealth, a healthtech company building AI-fo
 | 2022 | [Presence of management, entrepreneurship, leadership and marketing topics in the dental school curriculum in Brazil](https://doi.org/10.1111/eje.12714) | European Journal of Dental Education |
 | 2022 | [Impact of the curricular component management and professional guidance on the level of knowledge about administration of dentistry students at UFPB](https://doi.org/10.30979/revabeno.v22i2.1629) | Revista da ABENO |
 | 2021 | [Detecção de cárie dentária por fotoluminescência utilizando processamento digital de imagem com inteligência artificial](https://bdtd.ibict.br/vufind/Record/UFPB_5fdc6f9da2d26be4be37c9f77bc71653) | Dissertação de Mestrado (UFPB) |
-| 2018 | [Resistência de união ao teste de push-out em pinos de fibra de vidro com diferentes tratamentos radiculares](http://archhealthinvestigation.emnuvens.com.br/ArcHI/article/view/3622) | Archives of Health Investigation |
+| 2018 | [Resistência de união ao teste de push-out em pinos de fibra de vidro com diferentes tratamentos radiculares](https://archhealthinvestigation.com.br/ArcHI/article/view/3622) | Archives of Health Investigation |
 
 ---
 
