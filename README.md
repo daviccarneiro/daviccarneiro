@@ -61,7 +61,7 @@ Davi Carneiro is the Founder of inovaHealth, a healthtech company building AI-fo
 
 ## 📚 Publicações
 
-[ORCID](https://orcid.org/0000-0002-3529-2504) · [Google Acadêmico](https://scholar.google.com/citations?user=IZfYczMAAAAJ)
+[Currículo Lattes](http://lattes.cnpq.br/2222088746861424)
 
 | Ano | Publicação | Periódico |
 |:---|:---|:---|
